@@ -1,5 +1,8 @@
 guadalup
-e## Section 1
+# Big heading
+## Medium heading
+### Medium smalll heading
+#### small heading
 Hello 
 One Two t
 Three
