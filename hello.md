@@ -1,5 +1,4 @@
-guadalup
-# Big heading
+# Space X-scape
 ## Medium heading
 ### Medium smalll heading
 #### small heading
@@ -10,6 +9,8 @@ Three
 ![fish](./fish.png)
 
 
-Here's a link
+This is the link to the board game:
+This is the link to the cards:
+This is the link to the game piece:
 [google link](http://www.google.com)
 
