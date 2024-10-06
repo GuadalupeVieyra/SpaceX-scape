@@ -5,7 +5,7 @@ The game blends education with entertainment by encouraging players to explore v
 
 ![logo](./logo.png)
 
-This is the link to the instruction, board game, cards, and game pieces:
+This is the link to the instructions, board game, cards, and game pieces:
 [https://drive.google.com/drive/folders/1qZ838H7judPCWpGyDj9ChPCFmg1zR2l6?usp=sharing] 
 (Space X-Scape: Pioneers of the Universe - Google Drive)
 
